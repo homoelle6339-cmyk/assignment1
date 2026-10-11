@@ -1,5 +1,10 @@
+.jim-nightshade-regular {
+  font-family: "Jim Nightshade", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
 body{
-    padding-top: 90px;
+    padding-top: 150px;
     font-family: Georgia, serif;
     line-height: 1.6;
     background-color: #ffffff;
@@ -15,7 +20,11 @@ header{
     position: fixed;
     top: 0;
     width: 100%;
+    color:red;
+    background-color:#ffffff;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    font-family: "Jim Nightshade", cursive;
+    font-size: 24px;
 }
 nav :hover{
     color: red;
