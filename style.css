@@ -38,3 +38,25 @@ nav :hover{
 footer{
     font-style: italic;
 }
+body.dark-theme {
+    background-color: #222222;
+    color: white;
+}
+
+body.dark-theme.shedule,
+body.dark-theme.contact {
+    background-color: #222222;
+}
+
+body.dark-theme header {
+    background-color: #333333;
+    color: red;
+}
+
+body.dark-theme nav a {
+    color: white;
+}
+
+body.dark-theme footer {
+    color: white;
+}
